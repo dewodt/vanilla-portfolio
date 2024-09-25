@@ -1,0 +1,29 @@
+{
+  "name": "Dewantoro Triatmojo",
+  "short_name": "Dewantoro Triatmojo",
+  "start_url": "https://vanilla.dewodt.com/",
+  "display": "browser",
+  "description": "I’m a third-year undergraduate Computer Science student in Bandung Institute of Technology. I have strong interest in the realm of Software Engineering and Machine Learning!",
+  "icons": [
+    {
+      "src": "/public/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/public/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
