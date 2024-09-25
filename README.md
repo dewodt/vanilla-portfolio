@@ -13,6 +13,20 @@ This website is a simple portfolio website made just by using vanilla HTML & CSS
 | 5. Accessibility                   |  ✅   |
 | 6. Page Performance Score          |  ✅   |
 
+### Accessibility & Page Performance
+
+| ![Home Page](https://github.com/dewodt/vanilla-portfolio/blob/main/public/pagespeed/home.jpeg?raw=true) |
+| :-----------------------------------------------------------------------------------------------------: |
+|                                                Home Page                                                |
+
+| ![List Page](https://github.com/dewodt/vanilla-portfolio/blob/main/public/pagespeed/list-page.jpeg?raw=true) |
+| :----------------------------------------------------------------------------------------------------------: |
+|                                                  List Page                                                   |
+
+| ![Detail Page](https://github.com/dewodt/vanilla-portfolio/blob/main/public/pagespeed/detail-page.jpeg?raw=true) |
+| :--------------------------------------------------------------------------------------------------------------: |
+|                                                   Detail Page                                                    |
+
 ## Contributors
 
 | Name                | NIM      |

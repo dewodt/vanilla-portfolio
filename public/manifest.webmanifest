@@ -1,7 +1,7 @@
 {
   "name": "Dewantoro Triatmojo",
   "short_name": "Dewantoro Triatmojo",
-  "start_url": "https://vanilla.dewodt.com/",
+  "start_url": "https://vanilla-dewodt.netlify.app/",
   "display": "browser",
   "description": "I’m a third-year undergraduate Computer Science student in Bandung Institute of Technology. I have strong interest in the realm of Software Engineering and Machine Learning!",
   "icons": [
