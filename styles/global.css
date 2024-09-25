@@ -439,6 +439,11 @@ body {
   font-family: "Inter", sans-serif;
 }
 
+/* outsmart anchor highlight without js */
+a {
+  scroll-margin-top: 100vh;
+}
+
 /* Navigation Bar */
 .navbar {
   position: sticky;
@@ -474,12 +479,24 @@ body {
   transition-duration: 200ms;
 }
 
+.navbar__link:focus {
+  outline: none;
+}
+
 .navbar__link:hover {
   background-color: hsla(var(--primary), 0.35);
   color: hsl(var(--secondary));
 }
 
-.navbar__link:target {
+/* For home */
+.navbar__item:not(:has(~ .navbar__item > .navbar__link--other:target))
+  > .navbar__link--home {
+  background-color: hsl(var(--primary));
+  color: hsl(var(--secondary));
+}
+
+/* Other than home */
+.navbar__link--other:target {
   background-color: hsl(var(--primary));
   color: hsl(var(--secondary));
 }
